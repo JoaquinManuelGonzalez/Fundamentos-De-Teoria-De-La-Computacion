@@ -31,3 +31,8 @@ La asignatura "Fundamentos de Teoría de la Computación" introduce al alumno en
 - Verificación axiomática de programas
 
 ## Links a Resoluciones de Prácticas
+- [Trabajo 1](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%201%20-%20Computabilidad%20y%20Complejidad%20Computacional/Trabajo-1-Resolucion.md)
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRzbW9lazg2djFubWhua2p2YTZ6aGdnNTVuYXU3OXkzOGlseTJ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1mHcB8wOCWf6/giphy.gif" alt="Como me siento con esta materia" width="800" height="auto" loop>
+</p>
