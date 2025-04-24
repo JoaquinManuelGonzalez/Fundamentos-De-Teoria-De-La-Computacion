@@ -37,6 +37,7 @@ La asignatura "Fundamentos de Teoría de la Computación" introduce al alumno en
 - [Trabajo 4 - Las Reducciones](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%201%20-%20Computabilidad%20y%20Complejidad%20Computacional/Trabajo%20Pr%C3%A1ctico%20Nro%204%20-%20Las%20Reducciones.pdf)
 - [Trabajo 5 - Tiempo polinomial y no polinomial](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%201%20-%20Computabilidad%20y%20Complejidad%20Computacional/Trabajo%20Pr%C3%A1ctico%20Nro%205%20-%20Tiempo%20polinomial%20y%20no%20polinomial.pdf)
 - [Trabajo 6 - NP-completitud](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%201%20-%20Computabilidad%20y%20Complejidad%20Computacional/Trabajo%20Pr%C3%A1ctico%20Nro%206%20-%20NP-completitud.pdf)
+- [Trabajo 7 - La jerarquía espacio-temporal y Misceláneos](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%201%20-%20Computabilidad%20y%20Complejidad%20Computacional/Trabajo%20Pr%C3%A1ctico%20Nro%207%20-%20La%20jerarqu%C3%ADa%20espacio-temporal%20y%20Miscel%C3%A1neos.pdf)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRzbW9lazg2djFubWhua2p2YTZ6aGdnNTVuYXU3OXkzOGlseTJ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1mHcB8wOCWf6/giphy.gif" alt="Como me siento con esta materia" width="600" height="auto" loop>
