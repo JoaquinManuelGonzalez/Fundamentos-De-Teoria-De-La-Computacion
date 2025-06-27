@@ -42,6 +42,7 @@ La asignatura "Fundamentos de Teoría de la Computación" introduce al alumno en
 - [Trabajo 9 - Sistema formal L, axiomas y reglas de inferencia](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%202%20-%20L%C3%B3gica%20e%20Inteligencia%20Artificial/Trabajo%20Pr%C3%A1ctico%20Nro%209%20-%20Sistema%20formal%20L%2C%20axiomas%20y%20reglas%20de%20inferencia.pdf)
 - [Trabajo 10 - Representación de conocimiento](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%202%20-%20L%C3%B3gica%20e%20Inteligencia%20Artificial/Trabajo%20Pr%C3%A1ctico%20Nro%2010%20-%20Representaci%C3%B3n%20de%20Conocimiento.pdf)
 - [Trabajo 11 - Lógica de Predicados, Semántica](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%202%20-%20L%C3%B3gica%20e%20Inteligencia%20Artificial/Trabajo%20Pr%C3%A1ctico%20Nro%2011%20-%20L%C3%B3gica%20de%20Predicados%2C%20Sem%C3%A1ntica.pdf)
+- [Trabajo 12 - Inteligencia Artificial](https://github.com/JoaquinManuelGonzalez/Fundamentos-De-Teoria-De-La-Computacion/blob/main/practicas/Parte%202%20-%20L%C3%B3gica%20e%20Inteligencia%20Artificial/Trabajo%20Pr%C3%A1ctico%20Nro%2012%20-%20Inteligencia%20Artificial.pdf)
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRzbW9lazg2djFubWhua2p2YTZ6aGdnNTVuYXU3OXkzOGlseTJ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q1mHcB8wOCWf6/giphy.gif" alt="Como me siento con esta materia" width="600" height="auto" loop>
